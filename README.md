@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name's Justin, I'm an undergraduate at the University of British Columbia. I previously graduated with a degree in Behavioural Neuroscience, and am now studying Computer Science as a second degree (part of the UBC BCS program!). 
+
