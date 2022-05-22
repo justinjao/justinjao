@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! 👋
 
 <!--
 **justinjao/justinjao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Justin, and I'm a current undergraduate student at the University of British Columbia. I previously graduated with a degree in Behavioural Neuroscience, and am now studying Computer Science as a second degree (part of the UBC BCS program!).
+I’m Justin, and I’m currently a second degree computer science student (BCS) at the University of British Columbia.
 
-I began my foray into the world of programming through the realm of data analysis, primarily using R for life-science or health-related research projects, though I’ve slowly been exploring more general coding projects as I learn more about Computer Science. I'm currently interning as a software developer, and hope to learn as much as I can about building high quality software and systems. 
+I used to be in life sciences. Then I did a couple of stints in cancer and neuroscience research. 
 
-I’m passionate about data science and programming – it’s what initially attracted me to study Computer Science in the first place – and am interested in exploring careers in data analytics and engineering, and software development.
+Then I switched to CS, and I've been having a blast ever since.
+
+You can reach me at: justinjjao@gmail.com
