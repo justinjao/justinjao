@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently building software to improve the architecture and engineering industry at [StructureCraft](https://structurecraft.com/) ([Branch3D](https://www.branch3d.com/)).
+Currently building software to improve the architecture and engineering industry at [Branch3D](https://www.branch3d.com/).
 
 Before that, I graduated with a degree in computer science (BCS) at the University of British Columbia.
 
