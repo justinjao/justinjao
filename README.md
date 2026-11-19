@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 Currently building software to improve the 🏗️ architecture and engineering (AEC) industry at [Branch3D](https://www.branch3d.com/).
 
-Before that, I graduated with a degree in computer science (BCS) at the University of British Columbia.
+Before that, I graduated with a degree in computer science (BCS) at the University of British Columbia (UBC).
 
-And before that, I studied life sciences and did some cancer and neuroscience research.
+And before that, I studied life sciences and did some cancer and neuroscience research (also at UBC!).
 
 You can reach me at: justinjjao@gmail.com
